@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **athul.sin.cos.tan@gmail.com**
 
-- ⚡ Fun fact ** website tracks the internet's age – and it's not as anxious as you might think.**
+- ⚡ Fun fact>> **website tracks the internet's age – and it's not as anxious as you might think**
 
 ![Profile views](https://gpvc.arturio.dev/athulcoder)
 
