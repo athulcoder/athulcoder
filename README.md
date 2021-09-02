@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm athulcoder</h1>
+<h1 align="center">Hi 👋, I'm Athul!</h1>
 
 - 🔭 I’m currently working on a Telegram Bot
 
