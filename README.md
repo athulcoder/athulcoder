@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm Athul!</h1>
 
-- 🔭 I’m currently working on a Telegram Bot
+- 🔭 I’m currently working on a TeleBot
 
 - 🌱 I’m currently learning **python,C++ & JavaScript**
 
