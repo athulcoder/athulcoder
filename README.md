@@ -17,12 +17,14 @@
 
 ![Profile views](https://gpvc.arturio.dev/athulcoder)
 
+
 <h3 align="center">Contact Me</h3>
 <p align="center">
   <a href="https://t.me/athulcoder" target="_blank"><img src="https://img.shields.io/badge/Telegram-6076d6?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://discord.com/users/athulcoder#5156" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://discord.com/users/athulcoder#5156" target="_blank"><img src="https://img.shields.io/badge/Twitter-7289DA?style=for-the-badge&logo=twitter&logoColor=white" alt="Discord" /></a>
 </p>
+
 
  
 
