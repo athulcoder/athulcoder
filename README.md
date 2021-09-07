@@ -28,9 +28,6 @@
 </p>
 
 
- 
-
-
 
 <h3>Technologies</h3>
 <p>
