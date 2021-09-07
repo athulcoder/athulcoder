@@ -13,7 +13,11 @@
 
 - ⚡ Fun fact>> **website tracks the internet's age – and it's not as anxious as you might think**
 
+
+
 ![Profile views](https://gpvc.arturio.dev/athulcoder)
+
+
 
 
 <h3 align="center">Contact Me</h3>
@@ -25,6 +29,8 @@
 
 
  
+
+
 
 <h3>Technologies</h3>
 <p>
@@ -48,10 +54,11 @@
 <hr />
 
 ></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulcoder&layout=compact&hide=html" alt="athulcoder" />
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athulcoder&" alt="athulcoder" /></p>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulcoder&layout=compact&hide=html" alt="athulcoder" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=athulcoder&show_icons=true" alt="athulcoder" />
 <h3>Support Me</h3> 
