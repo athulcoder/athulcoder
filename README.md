@@ -59,16 +59,17 @@
 
 <hr />
 
-></p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulcoder&layout=compact&hide=html" alt="athulcoder" />
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=athulcoder&show_icons=true&theme=radical&locale=en&layout=compact" alt="athulcoder" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athulcoder&show_icons=true&theme=radical&locale=en" alt="athulcoder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athulcoder&" alt="athulcoder" /></p>
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=athulcoder&show_icons=true" alt="athulcoder" />
-<h3>Support Me</h3> 
+
 
 
 
