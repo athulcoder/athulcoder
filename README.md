@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a **TeleBot**
 
-- 🌱 I’m currently learning **python,C++ & JavaScript**
+- 🌱 I’m currently learning **python,C++ & TypeScript**
 
 - 📫 How to reach me **athul.sin.cos.tan@gmail.com**
 
