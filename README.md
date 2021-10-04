@@ -37,8 +37,7 @@
 <a href="https://telegram/athulcoder" target="_blank"><img src="https://img.shields.io/badge/Telegram-0707d6?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://discord.com/users/athulcoder#5156" target="_blank"><img src="https://img.shields.io/badge/Discord-0909g6?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://Twitter.com/users/athulcoder#5156" target="_blank"><img src="https://img.shields.io/badge/Twitter-7289DA?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://Github/users/athulcoder#5156" target="_blank"><img src="https://img.shields.io/badge/Github-White?style=for-the-badge&logo=github&logoColor=black" alt="Github" /></a>
-
+  
 #### E-Mail -- athul.sin.cos.tan@gmail.com
 ####  Telegram Username -- athulcoder
 #### Twitter username  -- athulcoder
