@@ -68,4 +68,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athulcoder&show_icons=true&theme=radical&locale=en" alt="athulcoder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athulcoder&" alt="athulcoder" /></p>
-
