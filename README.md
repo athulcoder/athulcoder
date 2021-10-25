@@ -32,8 +32,7 @@
 </p>
 
 
-
-### Technologies
+<h3> Technologies </h3>
 <img src="https://img.shields.io/badge/Bot-6076d6?style=for-the-badge&logo=Telegram&logoColor=white" alt="Discord Bot" />
   <img src="https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
   <img src="https://img.shields.io/badge/Bot-8009fo?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="Bot" />
