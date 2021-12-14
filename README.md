@@ -13,8 +13,7 @@
 
 - 📫 How to reach me **athul.sin.cos.tan@gmail.com**
 
-- ⚡ Fun fact  **website tracks the internet's age – and it's not as anxious as you might think**
-
+- ⚡ Fun fact  **The first computer mouse was called 'X-Y Position Indicator for Display Systems**
 
 
 
