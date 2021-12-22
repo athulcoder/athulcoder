@@ -1,7 +1,6 @@
 <!DOCTYPE>
 
 <html>
-
 <h1 align ="center"> Hi There 👋  </h1>
 <H1 align = "center"> WELCOME </H1> 
 
