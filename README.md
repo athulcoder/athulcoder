@@ -8,7 +8,7 @@
 
 </html>
 
-<h1 align="center">Hi ,My Name is Athul</h1>
+<h1 align="center">Hi ,I 'm Athul</h1>
 
 - 🔭 I’m currently working on a **TeleBot**
 
