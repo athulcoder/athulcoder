@@ -25,25 +25,21 @@
 
 
 
+<h3 align="center" > Technologies </h3>
+<p align ="center">
+  <img src="https://img.shields.io/badge/Bot-229ED9?style=for-the-badge&logo=Telegram&logoColor=white" alt="Discord Bot" />
+  <img src="https://img.shields.io/badge/Python-FFEFDB?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
+  <img src="https://img.shields.io/badge/Bot-8009fo?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="Bot" />
+</p>    
 <h3 align="center">Contact Me</h3>
 <p align="center">
-  <a href="https://t.me/athulcoder" target="_blank"><img src="https://img.shields.io/badge/Telegram-6076d6?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://discord.com/users/athulcoder#5156" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://discord.com/users/athulcoder#5156" target="_blank"><img src="https://img.shields.io/badge/Twitter-7289DA?style=for-the-badge&logo=twitter&logoColor=white" alt="Discord" /></a>
-</p>
+  <a href="https://t.me/athul_pythoneer" target="_blank"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://discord.com/users/athulcoder#5156" target="_blank"><img src="https://img.shields.io/badge/Discord-191970?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://mobile.twitter.com/athulcoder#5156" target="_blank"><img src="https://img.shields.io/badge/Twitter-7289DA?style=for-the-badge&logo=twitter&logoColor=white" alt="Discord" /></a>
+  <a href="https://instagram.com/athul_pythoneer" target="_blank"><img src="https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/athul_pythoneer/#5156" target="_blank"><img src="https://img.shields.io/badge/Gmail-4285F4?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
+</p>  
 
-
-<h3> Technologies </h3>
-<img src="https://img.shields.io/badge/Bot-6076d6?style=for-the-badge&logo=Telegram&logoColor=white" alt="Discord Bot" />
-  <img src="https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
-  <img src="https://img.shields.io/badge/Bot-8009fo?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="Bot" />
-  
-
-## Reach Me
-  <a href="https://t.me/athulcoder" target="_blank"><img src="https://img.shields.io/badge/Telegram-6076d6?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-
-  <a href="https://discord.com/users/athulcoder#5156" target="_blank"><img src="https://img.shields.io/badge/Discord-0909g6?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://Twitter.com/users/athulcoder#5156" target="_blank"><img src="https://img.shields.io/badge/Twitter-7289DA?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
   
 #### E-Mail -- athul.sin.cos.tan@gmail.com
 ####  Telegram Username -- athulcoder
