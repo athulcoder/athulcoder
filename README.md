@@ -8,13 +8,11 @@
 
 <h1 align="center">Hi ,I 'm Athul</h1>
 
-- 🔭 I’m currently working on a **TeleBot**
-
-- 🌱 I’m currently learning **python,C++ & TypeScript**
+- 🌱 I’m currently learning **Python, HTML, PHP, CSS, JavaScript, TypeScript**
 
 - 📫 How to reach me **athul.sin.cos.tan@gmail.com**
 
-- ⚡ Fun fact  **The first computer mouse was called 'X-Y Position Indicator for Display Systems**
+- ⚡ Fun fact  **Computer is a dumb machine**
 
 
 
