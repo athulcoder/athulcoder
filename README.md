@@ -1,12 +1,12 @@
 <!DOCTYPE>
 <html>
 <h1 align ="center"> Hi There 👋  </h1>
-<H1 align = "center"> WELCOME </H1> 
+<H1 align = "center">🕊️🤍</H1> 
 
 
 </html>
 
-<h1 align="center">Hi ,I 'm Athul</h1>
+<h1 align="center">It's me Athul</h1>
 
 - 🌱 I’m currently learning **Python, HTML, PHP, CSS, JavaScript, TypeScript**
 
@@ -30,7 +30,7 @@
   <a href="https://t.me/athul_pythoneer" target="_blank"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://discord.com/users/athulcoder#5156" target="_blank"><img src="https://img.shields.io/badge/Discord-191970?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://mobile.twitter.com/athulcoder#5156" target="_blank"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Discord" /></a>
-  <a href="https://instagram.com/athul_pythoneer" target="_blank"><img src="https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://instagram.com/_i_athul" target="_blank"><img src="https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.instagram.com/athul_pythoneer/#5156" target="_blank"><img src="https://img.shields.io/badge/Gmail-4285F4?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
 </p>  
 
