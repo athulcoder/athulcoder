@@ -8,7 +8,7 @@
 
 <h1 align="center">It's me Athul</h1>
 
-- 🌱 I’m currently learning **Python, HTML, PHP, CSS, JavaScript, TypeScript**
+- 🌱 I’m currently learning **Java, Python, HTML, PHP, CSS, JavaScript, Android Development**
 
 - 📫 How to reach me **athul.sin.cos.tan@gmail.com**
 
