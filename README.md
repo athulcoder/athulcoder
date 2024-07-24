@@ -35,9 +35,10 @@
 </p>  
 
   
-#### E-Mail -- athul.sin.cos.tan@gmail.com
+#### E-Mail -- athulsabu324@gmail.com
 ####  Telegram Username -- athulcoder
 #### Twitter username  -- athulcoder
+### Instgram username -- _i_athul
 #### Github.           -- https://github.com/athulcoder
 
 
