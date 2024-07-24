@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Java, Python, HTML, PHP, CSS, JavaScript, Android Development**
 
-- 📫 How to reach me **athul.sin.cos.tan@gmail.com**
+- 📫 How to reach me **athulsabu324@gmail.com**
 
 - ⚡ Fun fact  **Computer is a dumb machine**
 
