@@ -1,64 +1,68 @@
-<!DOCTYPE>
-<html>
-<h1 align ="center"> Hi There 👋  </h1>
-<H1 align = "center">🕊️🤍</H1> 
+# 👋 Hi, I'm Athul Sabu!  
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
 
+## 🌟 About Me
+- 🎓 First-year BTech CSE student at Muthoot Institute of Technology and Science  
+- 💼 Aspiring **Full-Stack Web Developer** and **Software Developer**  
+- 💻 Passionate about solving problems through innovative software solutions  
+- 🌍 Personal Website: [athulcoder.github.io](https://athulcoder.github.io)
 
-</html>
+## 🚀 Skills
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<h1 align="center">It's me Athul</h1>
+- **Frameworks**:  
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+  ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 
-- 🌱 I’m currently learning **Java, Python, HTML, PHP, CSS, JavaScript, Android Development**
+- **Domains**: Full-Stack Web Development, Software Development  
 
-- 📫 How to reach me **athulsabu324@gmail.com**
+## 🌱 Currently Learning
+- Nuxt.js, Express.js, React.js, Java  
 
-- ⚡ Fun fact  **Computer is a dumb machine**
+## 🛠️ Tools
+- ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)
+- ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+- ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+- ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
+## 🛠️ Projects
+### [Instagram Clone](https://github.com/athulcoder/instagram_clone)
+- A fully functional clone of Instagram  
+- **Tech stack**: Flutter , Google Firebase
 
+### [E-commerce Website](https://github.com/athulcoder/reddpanda.store)
+- Front-end design of a scalable e-commerce platform  
+- **Tech stack**: Nuxt.js, HTML, CSS 
 
+### [Jarvis](https://github.com/athulcoder/jarvis)
+- An interactive and responsive Facebook UI replica  
+- **Tech stack**: Python , speech_recognition, PyQt5, pyautogui
 
+## 🌈 Hobbies
+- 🌙 **Late-night coding**: Bringing ideas to life while the world sleeps  
+- 💡 Exploring new technologies and frameworks  
 
+## 📊 GitHub Stats
+![Athul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=athulcoder&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athulcoder&layout=compact&theme=radical)  
 
-<h3 align="center" > Technologies </h3>
-<p align ="center">
-  <img src="https://img.shields.io/badge/Bot-229ED9?style=for-the-badge&logo=Telegram&logoColor=white" alt="Discord Bot" />
-  <img src="https://img.shields.io/badge/Python-FFEFDB?style=for-the-badge&logo=python&logoColor=black" alt="Python" />
-  <img src="https://img.shields.io/badge/Bot-8009fo?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="Bot" />
-</p>    
-<h3 align="center">Contact Me</h3>
-<p align="center">
-  <a href="https://t.me/athul_pythoneer" target="_blank"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="https://discord.com/users/athulcoder#5156" target="_blank"><img src="https://img.shields.io/badge/Discord-191970?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://mobile.twitter.com/athulcoder#5156" target="_blank"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="Discord" /></a>
-  <a href="https://instagram.com/_i_athul" target="_blank"><img src="https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.instagram.com/athul_pythoneer/#5156" target="_blank"><img src="https://img.shields.io/badge/Gmail-4285F4?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
-</p>  
+## 📫 Connect with Me
+- 🌐 **LinkedIn**: [Athul Sabu](https://www.linkedin.com/in/athul-sabu-84360a261/)  
+- 📷 **Instagram**: [_i_athul](https://www.instagram.com/_i_athul/)  
+- 🐦 **X (Twitter)**: [athulcoder](https://x.com/athulcoder)  
+- 🎮 **Discord**: athulcoder7330  
+- 🐙 **GitHub**: [athulcoder](https://github.com/athulcoder)  
 
-  
-#### E-Mail -- athulsabu324@gmail.com
-####  Telegram Username -- athulcoder
-#### Twitter username  -- athulcoder
-### Instgram username -- _i_athul
-#### Github.           -- https://github.com/athulcoder
+---
 
-
-<h3>Editors</h4>
-<p>
-  <img src="https://img.shields.io/badge/Pycharm-57A143?logo=Pycharm&logoColor=white&style=for-the-badge" alt="Pycharm" />
-  <img src="https://img.shields.io/badge/Spyder-7F5AB6?logo=Spyder&logoColor=white&style=for-the-badge" alt="Spyder" />
-
-<h3>I'm currently learning</h3>
-<p>
-  <img src="https://img.shields.io/badge/Typescript-2c2cc7?style=for-the-badge&logo=Typescript&logoColor=white" alt="Typescript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Python-FCC624?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-</p>
-
-<hr />
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=athulcoder&show_icons=true&theme=radical&locale=en&layout=compact" alt="athulcoder" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=athulcoder&show_icons=true&theme=radical&locale=en" alt="athulcoder" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=athulcoder&" alt="athulcoder" /></p>
+> "The only way to do great work is to love what you do." – Steve Jobs  
