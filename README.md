@@ -22,8 +22,8 @@
 - **Frameworks**:  
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-    ![React JS](https://img.shields.io/badge/react-092E20?style=for-the-badge&logo=reactjs&logoColor=white)
-  ![Next JS](https://img.shields.io/badge/nextjs-092E20?style=for-the-badge&logo=nextjs&logoColor=white)
+    ![React JS](https://img.shields.io/badge/React-092E20?style=for-the-badge&logo=react&logoColor=white)
+  ![Next JS](https://img.shields.io/badge/Next-092E20?style=for-the-badge&logo=next&logoColor=white)
 
 
 
