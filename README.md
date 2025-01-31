@@ -3,9 +3,9 @@
 
 ## 🌟 About Me
   
-- 💼 Aspiring **Full-Stack Web Developer** and **Software Developer**  
+- 💼 **Full-Stack Web Developer** and **Software Developer**  
 - 💻 Passionate about solving problems through innovative software solutions  
-- 🌍 Personal Website: [athulcoder.github.io](https://athulcoder.github.io)
+- 🌍 Website: [athulcoder.github.io](https://athulcoder.github.io)
 
 ## 🚀 Worked With
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
