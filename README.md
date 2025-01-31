@@ -13,7 +13,7 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-    ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-0175C2?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-0175C2?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -22,12 +22,13 @@
 - **Frameworks**:  
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-  ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
+    ![React JS](https://img.shields.io/badge/react-092E20?style=for-the-badge&logo=reactjs&logoColor=white)
+  ![Next JS](https://img.shields.io/badge/nextjs-092E20?style=for-the-badge&logo=nextjs&logoColor=white)
+
+
 
 - **Domains**: Full-Stack Web Development, Software Development  
 
-## 🌱 Currently Learning
-- Nuxt.js, Express.js, React.js, Java  
 
 ## 🛠️ Tools
 - ![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
