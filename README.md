@@ -58,7 +58,9 @@
 - 💡 Exploring new technologies and frameworks  
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=athulcoder&theme=radical)
+
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=athulcoder&theme=github)
+
 ![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=athulcoder&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athulcoder&layout=compact&theme=radical)  
 
