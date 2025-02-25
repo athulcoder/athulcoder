@@ -1,7 +1,7 @@
 # 👋 Hi, Im Athul Sabu!  
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House  
 
-## 🌟 About Me
+## 🌟 Role
   
 - 💼 **Full-Stack Web Developer** and **Software Developer**  
 - 💻 Passionate about solving problems through innovative software solutions  
