@@ -1,4 +1,4 @@
-# 👋 Hello, Im Athul Sabu!  
+# 👋 Hello, I'm Athul Sabu!  
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House  
 
 ## 🌟 Role
