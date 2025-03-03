@@ -61,9 +61,7 @@
 ## 📊 GitHub Stats
 
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=athulcoder&theme=github)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=athulcoder&theme=radical)
-](https://github-readme-streak-stats.herokuapp.com/?user=athulcoder&theme=radical&cache_seconds=0
-)
+
 ![ GitHub Stats](https://github-readme-stats.vercel.app/api?username=athulcoder&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athulcoder&layout=compact&theme=radical)  
 
