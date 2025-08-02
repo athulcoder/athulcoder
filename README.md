@@ -3,9 +3,6 @@ I'm a developer who loves building useful tools, clean user interfaces, and expe
 Always learning. Always shipping.
 
 ## 🛠️ Tech Stack
-
-## 🛠️ Tech Stack
-
 <div align="center">
 
 ### 🌐 Frontend & Frameworks
