@@ -4,41 +4,43 @@ Always learning. Always shipping.
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 <div align="center">
 
 ### 🌐 Frontend & Frameworks
-<p>
-  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="React" />
-  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="Next.js" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="Tailwind CSS" />
+<p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" style="background-color:#f0f0f0;padding:10px;border-radius:8px; margin-right:10px;" alt="React" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40" height="40" style="background-color:#f0f0f0;padding:10px;border-radius:8px; margin-right:10px;" alt="Next.js" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" width="40" height="40" style="background-color:#f0f0f0;padding:10px;border-radius:8px; margin-right:10px;" alt="Tailwind CSS" />
 </p>
 
 ### 🧩 Backend & Databases
-<p>
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="Node.js" />
-  <img src="https://cdn.simpleicons.org/express/000000" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="Express" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="MongoDB" />
+<p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" style="background-color:#f0f0f0;padding:10px;border-radius:8px; margin-right:10px;" alt="Node.js" />
+  <img src="https://cdn.simpleicons.org/express/000000" width="40" height="40" style="background-color:#f0f0f0;padding:10px;border-radius:8px; margin-right:10px;" alt="Express" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" style="background-color:#f0f0f0;padding:10px;border-radius:8px; margin-right:10px;" alt="MongoDB" />
 </p>
 
 ### 🧪 Tools & DevOps
-<p>
-  <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="Git" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="Postman" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="Vercel" />
-  <img src="https://cdn.simpleicons.org/render/46E3B7" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="Render" />
+<p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+  <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" style="background-color:#f0f0f0;padding:10px;border-radius:8px; margin-right:10px;" alt="Git" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40" style="background-color:#f0f0f0;padding:10px;border-radius:8px; margin-right:10px;" alt="Postman" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" width="40" height="40" style="background-color:#f0f0f0;padding:10px;border-radius:8px; margin-right:10px;" alt="Vercel" />
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="40" height="40" style="background-color:#f0f0f0;padding:10px;border-radius:8px; margin-right:10px;" alt="Render" />
 </p>
 
 ### 💻 Programming Languages
-<p>
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="JavaScript" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="TypeScript" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="Python" />
-  <img src="https://cdn.simpleicons.org/java/007396" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="Java" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="C" />
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="C++" />
+<p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" style="background-color:#f0f0f0;padding:10px;border-radius:8px;" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" style="background-color:#f0f0f0;padding:10px;border-radius:8px;" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" style="background-color:#f0f0f0;padding:10px;border-radius:8px;" alt="Python" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" width="40" height="40" style="background-color:#f0f0f0;padding:10px;border-radius:8px;" alt="C" />
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="40" height="40" style="background-color:#f0f0f0;padding:10px;border-radius:8px;" alt="C++" />
 </p>
 
 </div>
+
 
 
 
