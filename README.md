@@ -2,33 +2,45 @@
 I'm a developer who loves building useful tools, clean user interfaces, and experimenting with new tech.  
 Always learning. Always shipping.
 
-## 🧠 Tech Stack
+## 🛠️ Tech Stack
+
+<div align="center">
 
 ### 🌐 Frontend & Frameworks
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
+<p>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="React" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="Next.js" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="Tailwind CSS" />
+</p>
 
 ### 🧩 Backend & Databases
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+<p>
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="Node.js" />
+  <img src="https://cdn.simpleicons.org/express/000000" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="Express" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="MongoDB" />
+</p>
 
 ### 🧪 Tools & DevOps
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render)
+<p>
+  <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="Git" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="Postman" />
+  <img src="https://cdn.simpleicons.org/vercel/000000" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="Vercel" />
+  <img src="https://cdn.simpleicons.org/render/46E3B7" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="Render" />
+</p>
 
 ### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+<p>
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="TypeScript" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="Python" />
+  <img src="https://cdn.simpleicons.org/java/007396" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="Java" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="C" />
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="40" height="40" style="background-color:#f0f0f0;padding:10px;margin:12px;border-radius:8px;" alt="C++" />
+</p>
 
----
+</div>
+
+
 
 ## 🛠️ Notable Projects
 
