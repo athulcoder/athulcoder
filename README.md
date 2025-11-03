@@ -25,7 +25,7 @@ Always learning. Always shipping.
 
 ## 🌐 Connect with me
 
-- 🌍 Portfolio: [athulcoder.github.io](https://athulcoder.github.io)
+- 🌍 Portfolio: [website](https://athulcoder.vercel.app)
 - 💼 LinkedIn: [Athul Sabu](https://www.linkedin.com/in/athul-sabu-84360a261/)
 - 💻 GitHub: [@athulcoder](https://github.com/athulcoder)
 
