@@ -10,7 +10,7 @@ Always learning. Always shipping.
 
 ### ⚙️ Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,mongodb,tailwind" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,postgres,tailwind,node js" />
 </p>
 
 ### 🛠️ Tools & Platforms
