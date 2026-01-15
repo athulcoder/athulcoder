@@ -10,14 +10,14 @@ Always learning. Always shipping.
 
 ### ⚙️ Frameworks & Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,postgres,tailwind,nodejs" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,postgres,tailwind,nodejs,mysql,mongodb" />
 </p>
 
 ### 🛠️ Tools & Platforms
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,git,vscode,postman" />
-  <img src="https://cdn.simpleicons.org/render/000000" height="40" alt="Render.com" title="Render.com"/>
-  <img src="https://cdn.simpleicons.org/fedora?logoColor=white" height="40" />
+  <img src="https://skillicons.dev/icons?i=vercel,git,vscode,postman,docker" />
+  <img src="https://cdn.simpleicons.org/render/ffffff" height="40" alt="Render.com" title="Render.com"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="40">
 
 </p>
 
@@ -33,8 +33,10 @@ Always learning. Always shipping.
 
 ## 📈 GitHub Stats
 
+
+  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=athulcoder&show_icons=true&theme=tokyonight&hide_border=true&card_width=400" width="400" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulcoder&layout=compact&theme=tokyonight&hide_border=true&card_width=400" width="400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=athulcoder&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulcoder&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
