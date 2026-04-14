@@ -1,6 +1,7 @@
 
 I'm a developer who loves building useful tools, clean user interfaces, and experimenting with new tech.  
 Always learning. Always shipping.
+Want to know more visit my website 
 ## 🧠 Skills & Tech Stack
 
 ### 💻 Programming Languages
