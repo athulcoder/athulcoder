@@ -37,7 +37,8 @@ Want to know more visit my website
 
   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=athulcoder&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athulcoder&layout=compact&theme=tokyonight&hide_border=true"/>
+ <img src="https://github-stats-extended.vercel.app/api?username=athulcoder&include_all_commits=true&theme=radical"/>
+  <br>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=athulcoder&layout=compact&langs_count=10&theme=radical"/>
 </p>
 
