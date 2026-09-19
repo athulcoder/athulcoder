@@ -18,7 +18,7 @@ I work across frontend, backend, databases, cloud, and deployment, while constan
 
 **Always learning. Always building. Always shipping.**
 
-🌐 **Want to know more? Visit my website → [athulcoder.vercel.app](https://athulcoder.vercel.app)**
+🌐 **Want to know more? Visit my website → [athulsabu.in](https://athulsabu.in)**
 
 </div>
 
