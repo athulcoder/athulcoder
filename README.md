@@ -1,44 +1,93 @@
+<div align="center">
 
-I'm a developer who loves building useful tools, clean user interfaces, and experimenting with new tech.  
-Always learning. Always shipping.
-Want to know more visit my website 
+```text
+ █████╗ ████████╗██╗  ██╗██╗   ██╗██╗         ███████╗ █████╗ ██████╗ ██╗   ██╗
+██╔══██╗╚══██╔══╝██║  ██║██║   ██║██║         ██╔════╝██╔══██╗██╔══██╗██║   ██║
+███████║   ██║   ███████║██║   ██║██║         ███████╗███████║██████╔╝██║   ██║
+██╔══██║   ██║   ██╔══██║██║   ██║██║         ╚════██║██╔══██║██╔══██╗██║   ██║
+██║  ██║   ██║   ██║  ██║╚██████╔╝███████╗    ███████║██║  ██║██████╔╝╚██████╔╝
+╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚══════╝    ╚══════╝╚═╝  ╚═╝╚═════╝  ╚═════╝
+```
+
+### `Athul Sabu`
+
+**Full-Stack Developer · SaaS Developer · CRM Developer · Engineering Student**
+
+I'm a developer who enjoys building useful software, clean user interfaces, and practical systems.
+I work across frontend, backend, databases, cloud, and deployment, while constantly exploring new technologies.
+
+**Always learning. Always building. Always shipping.**
+
+🌐 **Want to know more? Visit my website → [athulcoder.vercel.app](https://athulcoder.vercel.app)**
+
+</div>
+
+---
+
 ## 🧠 Skills & Tech Stack
 
 ### 💻 Programming Languages
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,java" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,java,php,cs" />
 </p>
 
 ### ⚙️ Frameworks & Libraries
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,postgres,tailwind,nodejs,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,dotnet,django,flutter" />
 </p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,vite" />
+</p>
+
+### 🗄️ Databases & ORMs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis" />
+</p>
+
+`Entity Framework Core` · `Prisma` .`SQLAlchemy`
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=azure,docker,nginx,linux,vercel,cloudflare" />
+</p>
+
+`Azure` · `Azure Container Apps` · `Azure SQL` · `Oracle Cloud` · `Docker` · `Nginx` · `PM2` · `Cloudflare R2`
 
 ### 🛠️ Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vercel,git,vscode,postman,docker" />
-  <img src="https://cdn.simpleicons.org/render/ffffff" height="40" alt="Render.com" title="Render.com"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="40">
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,pycharm,idea" />
 </p>
+
+`n8n` · `Cloudflare Tunnel` · `Render` · `Expo` · `Azure CLI` · `Docker CLI`
 
 ---
 
 ## 🌐 Connect with me
 
-- 🌍 Portfolio: [website](https://athulcoder.vercel.app)
-- 💼 LinkedIn: [Athul Sabu](https://www.linkedin.com/in/athul-sabu-84360a261/)
-- 💻 GitHub: [@athulcoder](https://github.com/athulcoder)
+* 🌍 Portfolio: [athulcoder.vercel.app](https://athulcoder.vercel.app)
+* 💼 LinkedIn: [Athul Sabu](https://www.linkedin.com/in/athul-sabu-84360a261/)
+* 💻 GitHub: [@athulcoder](https://github.com/athulcoder)
 
 ---
 
 ## 📈 GitHub Stats
 
-
-  
 <p align="center">
- <img src="https://github-stats-extended.vercel.app/api?username=athulcoder&include_all_commits=true&theme=radical"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=athulcoder&include_all_commits=true&theme=radical"/>
   <br>
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=athulcoder&layout=compact&langs_count=10&theme=radical"/>
 </p>
 
+---
+
+<div align="center">
+
+`Thanks for visiting 👋`
+
+</div>
