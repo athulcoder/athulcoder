@@ -70,7 +70,7 @@ I work across frontend, backend, databases, cloud, and deployment, while constan
 
 ## 🌐 Connect with me
 
-* 🌍 Portfolio: [athulcoder.vercel.app](https://athulcoder.vercel.app)
+* 🌍 Portfolio: [athulsabu.in](https://athulsabu.in)
 * 💼 LinkedIn: [Athul Sabu](https://www.linkedin.com/in/athul-sabu-84360a261/)
 * 💻 GitHub: [@athulcoder](https://github.com/athulcoder)
 
